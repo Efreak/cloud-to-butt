@@ -1,15 +1,11 @@
 cloud-to-butt
 =============
 
-![](logo.png)
+Chrome extension that replaces occurrences of 'cyber' with 'fruitcake'
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+[Direct download of crx file](https://github.com/efreak/cyber-to-fruitcake/blob/master/CyberToFruitcake.crx?raw=true)
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
-
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_ extension replaces only the phrase described above. Thank you for your concern.
+[TL;DR Cyber cyber cyber, cyber, cy-cyber cyber!](http://arstechnica.com/the-multiverse/2016/01/say-cyber-again-ars-cringes-through-csi-cyber/?comments=1&post=30433379#comment-30433379)
 
 Screenshot Gallery
 ------------------

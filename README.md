@@ -1,4 +1,4 @@
-cloud-to-butt
+cyber-to-fruitcake
 =============
 
 Chrome extension that replaces occurrences of 'cyber' with 'fruitcake'

@@ -7,11 +7,6 @@ Chrome extension that replaces occurrences of 'cyber' with 'fruitcake'
 
 [TL;DR Cyber cyber cyber, cyber, cy-cyber cyber!](http://arstechnica.com/the-multiverse/2016/01/say-cyber-again-ars-cringes-through-csi-cyber/?comments=1&post=30433379#comment-30433379)
 
-Screenshot Gallery
-------------------
-
-http://www.flickr.com/groups/cloud-to-butt/
-
 Installation
 ------------
 
